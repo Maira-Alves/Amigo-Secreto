@@ -26,7 +26,6 @@ Botão laranja e arredondado para Sortear amigo.
 
 Exemplo:
 
-
 ![Exemplo do layout](screenshot.png)
 
 🚀 Tecnologias
@@ -48,7 +47,7 @@ JavaScript (ES6+)
 
 Clone este repositório:
 
-git clone https://github.com/seu-usuario/amigo-secreto.git
+git clone https://github.com/Maira-Alves/Amigo-Secreto.git
 
 
 Acesse a pasta do projeto:
@@ -71,5 +70,6 @@ Exportar lista de participantes.
 Melhorar design para mobile.
 
 📜 Licença
+
 
 Este projeto é de uso livre.
