@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Amigo Secreto</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <div class="box">
+      <h1>Amigo Secreto</h1>
+      <p>Digite o nome dos seus amigos</p>
+      
+      <div class="input-area">
+        <input type="text" id="nomeAmigo" placeholder="Digite um nome">
+        <button class="btn-add" onclick="adicionarAmigo()">Adicionar</button>
+      </div>
+
+      <ul id="listaAmigos"></ul>
+
+      <button class="btn-sortear" onclick="sortearAmigo()">Sortear amigo</button>
+
+      <p id="resultado"></p>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
+
